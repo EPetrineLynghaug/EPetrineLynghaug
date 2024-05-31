@@ -1,5 +1,5 @@
 
-### <div align="center">🖐🏼<br> I'm Petrine, a full-time student and freelance developer</div>  
+# <div align="center">🖐🏼 I'm Petrine, a full-time student and freelance developer</div>  
   
 <br/>  
 
