@@ -38,4 +38,4 @@
 <br/>  
 
 ## Github Stats  
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EPetrineLynghaug&layout=pie"> </div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EPetrineLynghaug&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
