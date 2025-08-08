@@ -1,6 +1,7 @@
 <div align="center">
   <h2>🖐🏼 Hi, I'm Petrine!</h2>
-  <p>A full-time student & freelance developer passionate about coding and technology.</p>
+  <p>Senior Software Developer @ <strong>Adept Concept</strong></p>
+  <p>Curious mind, tech enthusiast, and always learning by building.</p>
 </div>
  
 <div align="center">
